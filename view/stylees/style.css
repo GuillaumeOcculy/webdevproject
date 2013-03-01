@@ -1,0 +1,63 @@
+body{
+	background: white;
+}
+
+.navbar-static-top .navbar-inner .container{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.navbar-static-top .navbar-inner .container .brand{
+	font-size: 30px;
+}
+
+.container{
+	width: 400px;
+	margin: 0 auto;
+}
+
+.container h3{
+	margin-top: 15%;
+	margin-left: 70px;
+	padding-bottom: 30px;
+}
+
+.container #containerForm{
+	margin-top: 10%;
+	width: 400px;
+	margin: 0 auto;
+	border-radius: 5px;
+	--moz-border-radius: 20px;
+	--webkit-border-radius: 5px;
+	box-shadow: 1px 1px 12px #555;
+
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.container #containerForm form{
+	margin: 0 auto;
+	width: 200px;	
+}
+
+.container #containerForm form input{
+	height: 40px;
+	width: 206px;
+}
+
+.dashboard .container{
+	width: 940px;
+}
+
+.dashboard .container form{
+	margin-left: 250px
+}
+
+.dashboard .container form input{
+	height: 40px;
+	width: 200px;
+}
+
+.dashboard .container form button{
+	height: 40px;
+}
